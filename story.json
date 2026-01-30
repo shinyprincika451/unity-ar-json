@@ -1,0 +1,13 @@
+{
+  "stories": [
+    {
+      "id": "S001",
+      "title": "Sugar Villain",
+      "description": "Main villain of the AR game",
+      "subStories": [
+        { "topic": "Shooting" },
+        { "topic": "Boss Fight" }
+      ]
+    }
+  ]
+}
